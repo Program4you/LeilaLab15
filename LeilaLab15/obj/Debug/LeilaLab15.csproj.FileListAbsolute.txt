@@ -1,0 +1,7 @@
+c:\users\andrew\Dropbox\Programming\VisualStudio\Projects\LeilaLab15\LeilaLab15\bin\Debug\LeilaLab15.exe.config
+c:\users\andrew\Dropbox\Programming\VisualStudio\Projects\LeilaLab15\LeilaLab15\bin\Debug\LeilaLab15.exe
+c:\users\andrew\Dropbox\Programming\VisualStudio\Projects\LeilaLab15\LeilaLab15\bin\Debug\LeilaLab15.pdb
+c:\users\andrew\Dropbox\Programming\VisualStudio\Projects\LeilaLab15\LeilaLab15\obj\Debug\LeilaLab15.csprojResolveAssemblyReference.cache
+c:\users\andrew\Dropbox\Programming\VisualStudio\Projects\LeilaLab15\LeilaLab15\obj\Debug\LeilaLab15.csproj.CoreCompileInputs.cache
+c:\users\andrew\Dropbox\Programming\VisualStudio\Projects\LeilaLab15\LeilaLab15\obj\Debug\LeilaLab15.exe
+c:\users\andrew\Dropbox\Programming\VisualStudio\Projects\LeilaLab15\LeilaLab15\obj\Debug\LeilaLab15.pdb
